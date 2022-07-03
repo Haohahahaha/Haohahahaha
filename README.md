@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 BIGC 计算机科学与技术系 大二本科在读
+
+- 🔭 主要学习的大方向：操作系统/体系结构
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haohahahaha&layout=compact&hide=javascript,jupyter%20notebook&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
