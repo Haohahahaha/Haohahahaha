@@ -8,7 +8,7 @@
 
 [<img src="https://github-readme-stats.vercel.app/api?username=Haohahahaha&count_private=true&show_icons=true&theme=github_dark" alt="Anurag's GitHub stats" style="width: 400px" />](https://github.com/anuraghazra/github-readme-stats)
 
-[我的博客](http://haohaha.cn)
+[我的主页（may not a classical blog?）](http://haohaha.cn)
 
 [Bilibili](https://space.bilibili.com/1436476753)
 
