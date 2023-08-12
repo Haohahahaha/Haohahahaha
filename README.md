@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🌱 BIGC 计算机科学与技术系 大三本科在读
+- 🌱 BIGC 计算机科学与技术系 大四本科在读
 
-- 🔭 学业规划：考研
+- 🔭 学业规划：考研/一生一芯/rCore复刻
 
 [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haohahahaha&layout=compact&hide=javascript,jupyter%20notebook&theme=github_dark" alt="Top Langs" style="width: 400px;" />](https://github.com/anuraghazra/github-readme-stats)
 
