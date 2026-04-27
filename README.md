@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-[我的主页](http://haohaha.cn)
+[我的博客主页](http://haohaha.cn)
